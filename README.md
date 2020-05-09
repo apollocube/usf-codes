@@ -1,2 +1,2 @@
 # usf-codes
-this is Apollo's (not that god) useful codes repository.Mainly made by myself.
+一些好用或者有趣的代码，程序。
